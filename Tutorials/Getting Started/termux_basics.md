@@ -29,6 +29,7 @@ If you are tired on waiting while updating the packages (which is checking all m
 1. Run `termux-change-repo`
 2. Press the keys in order to select "Single mirror": Down arrow, SPACE, ENTER
 <img width="1080" height="416" alt="5640" src="https://github.com/user-attachments/assets/8a7f8295-c588-4e5a-a6e4-820ed91876a5" />
+
 3. Make sure you selected "default". Then, press ENTER again.
 <img width="1080" height="283" alt="5641" src="https://github.com/user-attachments/assets/00c56f92-240e-4ebd-a266-71cd9d8a2186" />
 
