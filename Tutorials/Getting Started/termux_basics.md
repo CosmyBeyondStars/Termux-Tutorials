@@ -32,6 +32,8 @@ If you are tired on waiting while updating the packages (which is checking all m
 3. Make sure you selected "default". Then, press ENTER again.
 <img width="1080" height="283" alt="5641" src="https://github.com/user-attachments/assets/00c56f92-240e-4ebd-a266-71cd9d8a2186" />
 
+With these steps, package syncing will be shorter!
+
 
 
 
