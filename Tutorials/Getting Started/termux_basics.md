@@ -20,3 +20,8 @@ There's many things to install in Termux, while some of them are in different re
 * `pkg install root-repo`: Enable this repository only if your device is rooted. It contains the packages/applications that require root permissions.
 
 * `pkg install tur-repo`: This package repository is unofficial, but it contains various packages/applications that are not in Termux's official packages list. ([Learn more](https://github.com/termux-user-repository/tur))
+
+* `pkg install glibc-repo` This package repository brings up packages and libraries which are only working on Termux GNU C Library (GLIBC) environment.
+
+## Package Mirrors
+If you are tired on waiting while updating the packages (which is checking all mirrors by group)
