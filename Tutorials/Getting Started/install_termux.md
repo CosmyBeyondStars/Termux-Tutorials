@@ -13,9 +13,9 @@
 3. Install the APK of Termux depending on your arch. If you're unsure, install the universal build.
 
 ## Method 3: GitHub Actions (Build Workflows)
-The [GitHub Actions page](https://github.com/termux/termux-app/actions) hosts builds that are created automatically from the latest source code. They include changes that haven't been released yet, so they can be newer than the official releases, but they are debug builds and may contain bugs.
+The [GitHub Actions page](https://github.com/termux/termux-app/actions) hosts builds that are created automatically from the latest source code. it include changes that haven't been released yet, so they can be newer than the official releases, but they are debug builds and may contain bugs.
 
-1. Sign in to your [GitHub account](https://github.com/login) 
+1. Sign in to your [GitHub account](https://github.com/login) because you can't install as an anonymous user.  
 2. Open the [Build workflow runs from the `master` branch](https://github.com/termux/termux-app/actions/workflows/debug_build.yml?query=branch%3Amaster+event%3Apush).
 3. Open the most recent run with a blue checkmark.
 4. Scroll down to the **Artifacts** section at the bottom of the run summary.
